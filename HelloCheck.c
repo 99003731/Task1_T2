@@ -4,6 +4,6 @@ int main()
     printf("Shivanshu says Hello World");
     printf("Shaik Akbar says Hello World");
     printf("Hi, this is Aditya mewara");
-    printf("prem pragada says bye");
+    printf("prem pragada says hello all");
     return 0;
 }
